@@ -1,0 +1,6 @@
+{
+"name": "hongmizhijia/blog",
+    "require": {
+        "monolog/monolog": "1.2.*"
+    }
+}
