@@ -1,6 +1,7 @@
 {
 "name": "hongmizhijia/hello-world",
     "require": {
-        "monolog/monolog": "1.2.*"
+        "monolog/monolog": "1.2.*",
+        "hongmizhijia/installer":"*"
     }
 }
